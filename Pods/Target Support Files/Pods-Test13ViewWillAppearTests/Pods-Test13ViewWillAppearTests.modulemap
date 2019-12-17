@@ -1,0 +1,6 @@
+framework module Pods_Test13ViewWillAppearTests {
+  umbrella header "Pods-Test13ViewWillAppearTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
